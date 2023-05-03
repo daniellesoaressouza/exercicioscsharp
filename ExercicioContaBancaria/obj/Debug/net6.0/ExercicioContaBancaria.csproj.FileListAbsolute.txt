@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net6.0\ExercicioContaBancaria.exe
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net6.0\ExercicioContaBancaria.deps.json
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net6.0\ExercicioContaBancaria.runtimeconfig.json
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net6.0\ExercicioContaBancaria.dll
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net6.0\ExercicioContaBancaria.pdb
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.AssemblyInfo.cs
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.dll
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\refint\ExercicioContaBancaria.dll
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.pdb
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.genruntimeconfig.cache
+C:\Users\danie\Desktop\curso c# - Material de Apoio\Exercicios\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ref\ExercicioContaBancaria.dll
